@@ -1,1 +1,1 @@
-# Yandex
+# Обучение в Yandex
